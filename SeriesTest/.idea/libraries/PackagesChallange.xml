@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PackagesChallange">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PackagesChallange/out/artifacts/PackagesChallange_jar/PackagesChallange.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

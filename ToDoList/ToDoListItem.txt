@@ -1,0 +1,15 @@
+Mail bithday card	Buy a third birthday card for John	25-Nis-2016
+Doctor's appointment	See Dr. Smith at 123 Main Street	23-May-2016
+Finish design proposal for client	I promised Mike I'd e mail mockups by Friday 22nd April	22-Nis-2016
+Pick up dry cleaning	The cloths should be ready by Wednesday	20-Nis-2016
+My new todoItem	This is my new todoItem	11-Tem-2020
+Durmuş'un yapacağı	Bu bir testtir.	18-Tem-2020
+Zeynep'in yapacağı	canı ne isterse onu yapsın	14-Tem-2020
+test	this is a short test	09-Tem-2020
+test	bu bir test hatırlatmasıdır	08-Tem-2020
+benim iş	ocak ayının işiydi	09-Oca-2020
+java	evde oturup java çalışılacak	13-Tem-2020
+polen	Bursa'ya polen gönderilecek	13-Tem-2020
+bahçeye gidilecek	bahçeden çiçek toplanacak	23-Tem-2020
+zeytin sulanacak	kanalı kontrol et	24-Tem-2020
+öylesine bir şey	bu bir testtir	31-Tem-2020
